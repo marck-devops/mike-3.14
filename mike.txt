@@ -1,1 +1,1 @@
-Hello, I'm Mike and I'm in training.
+Hello, I'm Mike and I'm in training. Now we just did the ECS.
