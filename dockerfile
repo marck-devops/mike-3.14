@@ -1,5 +1,5 @@
 
-FROM python:3.9-slim
+FROM 339712843199.dkr.ecr.us-east-1.amazonaws.com/marck-python-slim:latest
 
 WORKDIR /app
 
